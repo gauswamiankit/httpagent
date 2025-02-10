@@ -1,0 +1,24 @@
+name: httpagent
+description: "httpagent is a comprehensive library of custom HTTP API calling for Flutter."
+version: 0.0.9
+homepage: https://github.com/gauswamiankit/httpagent_package
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+maintainers:
+  - "Ankit (Owner) <gauswamiank@gmail.com>"
+
+# flutter:
+  # Add assets or fonts if needed
